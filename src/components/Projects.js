@@ -31,7 +31,7 @@ class Projects extends React.Component {
         techStack: "Java LibGdx",
         link: "",
         open: "",
-        image: "/assets/xuja1.jpg"
+        image: "/assets/xujasample.jpg"
       },
       "Solar System": {
         title: "Solar System",
@@ -111,10 +111,6 @@ class Projects extends React.Component {
                       {spotlightProjects[key]["techStack"]}
                     </p>
                   </p>
-                  <ExternalLinks
-                    githubLink={spotlightProjects[key]["link"]}
-                    openLink={spotlightProjects[key]["open"]}
-                  ></ExternalLinks>
                 </Carousel.Caption>
               </div>
             </Carousel.Item>
