@@ -35,7 +35,7 @@ class Intro extends React.Component {
         <FadeInSection>
           <div className="intro-subtitle">I create stuff sometimes.</div>
           <div className="intro-desc">
-            Something about me goes here and here and here.
+            I'm a software engineer in United Kingdom. I have great interest in full-stack development, artificial intelligence, human-computer interactions, and everything in between.
           </div>
           <a
             href="mailto:p.saxena@lancaster.ac.uk"
