@@ -14,7 +14,7 @@
 .joblist-job-company {
   font-family: "NTR", sans-serif;
   font-size: 28px;
-  color: #233554;
+  color: #58274f;
   font-weight: bold;
 }
 
@@ -54,7 +54,7 @@
   padding: 6px 20px;
 }
 .MuiButtonBase-root:focus {
-  color: var(--green-bright) !important;
+  color: #58274f !important;
 }
 
 ul {

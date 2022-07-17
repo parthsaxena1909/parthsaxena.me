@@ -92,7 +92,29 @@ const JobList = () => {
         "Collaborated actively with team using Agile methodologies to deliver a high quality product.",
         "Built essential applications for students using variety of technologies with focus on backend development using .NET and frontend development using react."
       ]
-    }
+    },
+    "CPS Impac Pvt LTD": {
+      jobTitle: "Customer Relationship Assistant Intern @",
+      duration: "OCT 2020- JAN 2021",
+      desc: [
+        "Documented relationship module for CPS Imap Pvt Ltd., a company in the field of Cathodic Protection Service in the field of oil and gas sector.",
+
+        "Provided support to maintain Excel database catered towards customers information and business leads",
+        "Collaborated with team to develop a web application to manage the data and provide a better user experience.",
+      ]},
+      "SNI India Pvt LTD":{
+        jobTitle: "Office Assistant Intern @",
+      duration: "MAY 2020- SEPT 2021",
+      desc: [
+        "Strengthened the office environment by providing support to the office staff.",
+        "Streamlined the process of filing and processing of documents by providing support to the office staff.",
+        "Designed laboratory equipment and machinery arrangements.",
+        "Recruited and trained new employees."
+      ]
+
+      }
+
+    
   
   };
 
