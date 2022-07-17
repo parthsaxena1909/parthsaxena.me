@@ -29,8 +29,8 @@ class Projects extends React.Component {
         desc:
           "A 2D platformer game where you play as a knight and fight the enemies to reach Xuja",
         techStack: "Java LibGdx",
-        link: "https://github.com/Devils-917/SCC210",
-        open: "https://github.com/Devils-917/SCC210",
+        link: "",
+        open: "",
         image: "/assets/xuja1.jpg"
       },
       "Solar System": {

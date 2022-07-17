@@ -19,13 +19,13 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am currently a third year <b>Computer Science</b> major at
+        I am currently a third year <b>Computer Science</b> student at
         <a href="https://www.lancaster.ac.uk/">
           {" "}
           Lancaster University
         </a>
         . I am currently building projects that have social impact, I am seeking {""}
-        <b>graduate roles</b> after I graduate next year in June.
+        <b>graduate roles</b> for the year 2023.
       </p>
     );
     const two = (
