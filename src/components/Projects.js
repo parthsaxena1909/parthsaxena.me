@@ -37,7 +37,7 @@ class Projects extends React.Component {
         title: "Solar System",
         desc:
           "A Java simulation of the planet system revolving around the sun.",
-        techStack: "JAVASCRIPT (THREE.JS)",
+        techStack: "Java Libgdx ",
         link: "",
         open: "",
         image: "/assets/sys1.jpg"
