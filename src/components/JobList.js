@@ -82,40 +82,35 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
-    "Lancaster University": {
-      jobTitle: "ITPI Full Stack Developer @",
-      duration: "NOV 2021 - FEB 2022",
-      desc: [
-        "Handled essential university services and researched Azure MxChip for introduction of next-gen features in lecture halls.",
-
-        "Developed and successfully implemented proof of work on campus parking using blazor web assembly",
-        "Collaborated actively with team using Agile methodologies to deliver a high quality product.",
-        "Built essential applications for students using variety of technologies with focus on backend development using .NET and frontend development using react."
-      ]
-    },
-    "CPS Impac Pvt LTD": {
-      jobTitle: "Customer Relationship Assistant Intern @",
-      duration: "OCT 2020- JAN 2021",
-      desc: [
-        "Documented relationship module for CPS Imap Pvt Ltd., a company in the field of Cathodic Protection Service in the field of oil and gas sector.",
-
-        "Provided support to maintain Excel database catered towards customers information and business leads",
-        "Collaborated with team to develop a web application to manage the data and provide a better user experience.",
-      ]},
-      "SNI India Pvt LTD":{
-        jobTitle: "Office Assistant Intern @",
-      duration: "MAY 2020- SEPT 2021",
-      desc: [
-        "Strengthened the office environment by providing support to the office staff.",
-        "Streamlined the process of filing and processing of documents by providing support to the office staff.",
-        "Designed laboratory equipment and machinery arrangements.",
-        "Recruited and trained new employees."
-      ]
-
-      }
-
-    
+      "Cumbria Innovations Platform 2": {
+        jobTitle: "Software Developer @",
+        duration: "JAN 2023 - MAR 2023",
+        desc: [
+          "Led and developed a learning management system aimed at assisting the business through innovation.",
+          "Worked closely with the business to identify project needs and solutions. Developed several prototypes and presented them to the business, ultimately delivering a solution that increased customer satisfaction.",
+        ]
+      },
+      "Lancashire Cyber Foundry": {
+        jobTitle: "Software Developer Intern @",
+        duration: "NOV 2022 - FEB 2022",
+        desc: [
+          "Collaborated with an SME to develop and implement technical solutions for onboarding new clients, resulting in a streamlined and efficient process that improved the company's bottom line, including a 50% reduction in onboarding time while demonstrating strong collaboration skills, technical expertise, and a drive for innovation.",
+          "Spearheaded the development of a customer onboarding system using a combination of technologies such as React, Bootstrap, MongoDB, GraphQL, NextJS, and Apollo Client.",
+          "Employed a user-centred approach throughout the entire development cycle.",
+        ]
+      },
+      "Lancaster University": {
+        jobTitle: "ITPI Full Stack Developer @",
+        duration: "NOV 2021 - FEB 2022",
+        desc: [
+          "Handled essential university services and researched Azure MxChip for introduction of next-gen features in lecture halls.",
   
+          "Developed and successfully implemented proof of work on campus parking using blazor web assembly",
+          "Collaborated actively with team using Agile methodologies to deliver a high quality product.",
+          "Built essential applications for students using variety of technologies with focus on backend development using .NET and frontend development using react."
+        ]
+      }
+    
   };
 
   const handleChange = (event, newValue) => {

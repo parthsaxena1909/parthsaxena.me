@@ -25,7 +25,7 @@ class About extends React.Component {
           Lancaster University
         </a>
         . Building projects that have social impact, I am seeking {""}
-        <b>graduate roles</b> for the year 2023. This is the first draft of my personal website. I am working on the second version continuously, and I hope to have it up and running by the end of the year.
+        <b>graduate roles</b> for the year 2023.
       </p>
     );
     const two = (
@@ -51,6 +51,8 @@ class About extends React.Component {
       "Java",
       "Node.js",
       "HTML & CSS etc.",
+      "Git",	
+
       
     ];
 
@@ -77,6 +79,7 @@ class About extends React.Component {
                 })}
               </ul>
               {[two]}
+              {[three]}
             </div>
             <div className="about-image">
               <img src={"/assets/pic.jpg"} />

@@ -48,7 +48,7 @@ class Projects extends React.Component {
         desc:
           "A project management website which allows the user to do basic CRUD functions.",
         techStack: "Javascript, Node.js, Express.js, MongoDB, Bootstrap,Apollo, React,HTML",
-        link: "",
+        link: "https://github.com/parthsaxena1909/Project-Management-App-GraphQL",
         open: ""
       },
       "Performance Database Management System": {
